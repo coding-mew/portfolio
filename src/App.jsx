@@ -11,6 +11,8 @@ import routes from "./components/routes";
 // ABOUT _> CV (download option?)
 // display hidden onClick NavElement
 // DEPLOY on gh-pages 
+// .active NavLinks
+
 
 function App() {
   return (
