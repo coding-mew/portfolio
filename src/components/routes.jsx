@@ -4,6 +4,7 @@ import HomePage from "../pages/HomePage";
 import NotFound from "../pages/NotFound";
 import Experience from '../pages/Experience';
 import Projects from '../pages/Projects';
+import {Navigate} from 'react-router-dom'
 
 const routes = [
   {
@@ -33,6 +34,9 @@ const routes = [
   },
   {path: "*",
   element: <NotFound />,
+  id: 4},
+  {path: "/portfolio/",
+  element: <Navigate to="/" />,
   id: 4},
 ];
 
