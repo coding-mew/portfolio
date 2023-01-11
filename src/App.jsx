@@ -10,7 +10,7 @@ import routes from "./components/routes";
 // Hme _> About
 // ABOUT _> CV (download option?)
 // display hidden onClick NavElement
-// .active NavLinks
+
 
 function App() {
   return (
