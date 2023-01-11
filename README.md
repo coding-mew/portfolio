@@ -1,6 +1,3 @@
-# TO DO
-.active NavLinks
-1. Margin-right on mobile
-2. Media query for contact on mobile devices
-3. font-size Desktop Projects and more
-4. Linking pictures in Projects to deployment
+An ongoing project Portfolio to train and test some skills and technologies
+
+Built with HTML5, CSS3, JavScript, NodeJS, React, Vite
