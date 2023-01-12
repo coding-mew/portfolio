@@ -1,3 +1,3 @@
 An ongoing project Portfolio to train and test some skills and technologies
 
-Built with HTML5, CSS3, JavScript, NodeJS, React, Vite
+Until now, built with HTML5, CSS3, JavaScript, NodeJS, React, Vite

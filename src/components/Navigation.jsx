@@ -4,30 +4,30 @@ import logo from "../assets/images/x.png";
 
 function Navigation() {
   const items = [
-    {
-      name: "Home",
-      to: "/",
-      id: "01.",
-    },
+    // {
+    //   name: "Home",
+    //   to: "/",
+    //   id: "01.",
+    // },
     {
       name: "About",
       to: "/about",
-      id: "02.",
+      id: "01.",
     },
     {
       name: "Experience",
       to: "/experience",
-      id: "03.",
+      id: "02.",
     },
     {
       name: "Projects",
       to: "/projects",
-      id: "04.",
+      id: "03.",
     },
     {
       name: "Contact",
       to: "/contact",
-      id: "05.",
+      id: "04.",
     },
 
   ];
