@@ -17,8 +17,8 @@ function Experience() {
     <ul>
       <li><span className="text_green">&gt;_</span> HTML</li>
       <li><span className="text_green">&gt;_</span> CSS</li>
-      <li><span className="text_green">&gt;_</span> [JS]</li>
-      <li><span className="text_green">&gt;_</span> Github</li>
+      <li><span className="text_green">&gt;_</span> JavaScript</li>
+      {/* <li><span className="text_green">&gt;_</span> Github</li> */}
     </ul>
   </div>
   <div className="skills">
@@ -26,25 +26,31 @@ function Experience() {
     <ul>
       <li><span className="text_green">&gt;_</span> Bootstrap</li>
       <li><span className="text_green">&gt;_</span> Tailwind</li>
-      <li><span className="text_green">&gt;_</span> Sass</li>
-      <li><span className="text_green">&gt;_</span> SCSS</li>
+      <li><span className="text_green">&gt;_</span> Material UI</li>
+      <li><span className="text_green">&gt;_</span> React</li>
+      <li><span className="text_green">&gt;_</span> Vite</li>
+      <li><span className="text_green">&gt;_</span> ++</li>
+
+
     </ul>
   </div>
   <div className="skills">
-    <h5>Backend</h5>
+    <h5>Backend and Databases</h5>
     <ul>
-      <li><span className="text_green">&gt;_</span> [to]</li>
-      <li><span className="text_green">&gt;_</span> [be]</li>
-      <li><span className="text_green">&gt;_</span> [completed]</li>
+      <li><span className="text_green">&gt;_</span> Node JS</li>
+      <li><span className="text_green">&gt;_</span> Express</li>
+      <li><span className="text_green">&gt;_</span> MongoDB</li>
     </ul>
   </div>
   <div className="skills">      
     <h5>Other</h5>
     <ul>
-      <li><span className="text_green">&gt;_</span> Music</li>
-      <li><span className="text_green">&gt;_</span> Nature</li>
-      <li><span className="text_green">&gt;_</span> Science</li>
-      <li><span className="text_green">&gt;_</span> Technology</li>
+      <li><span className="text_green">&gt;_</span> Canva</li>
+      <li><span className="text_green">&gt;_</span> Github</li>
+      <li><span className="text_green">&gt;_</span> Office</li>
+      <li><span className="text_green">&gt;_</span> Ableton</li>
+      <li><span className="text_green">&gt;_</span> ++ </li>
+
     </ul>
   </div>
 
