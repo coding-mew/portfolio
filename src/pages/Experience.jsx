@@ -6,8 +6,8 @@ function Experience() {
 
     <div className="sec_two_main">
       <h3>learn[ing]</h3>
-      <h2>_superuseful stuff</h2>
-      <p>For now I'm focusing on UI and Frontend, but there's more to come.
+      <h2>_Fullstack Webdevelopment</h2>
+      <p>I am looking for a job as a frontend or fullstack developer!
 
       </p>
    </div>
